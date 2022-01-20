@@ -1,0 +1,18 @@
+VARIABLES
+        Una variable, es una forma de almacenar el valor de algo para poder utilizarlo mas tarde. Tenemos que
+        asignarle un nombre, de manera que despues podamos acceder a lo que esta dentro de ese nombre.
+STRING
+        Es un tipo de dato, una cadena de caracteres, que va simepre entre comillas.
+FUNCIONES:
+    ARGUMENTOS
+        Son variables que declaramos en una funcion. Podemos agregar multiples argumentos colocando una coma.
+    RETURN
+        Es la unica forma en la que los datos escapan de una funcion. 
+        No se puede acceder a nada mas que a los que se devuelve fuera de la funcion. 
+DECLARACIONES:
+    IF
+        Es una forma en la que la funcion verifica si algo es true, ya sea ejecutando el codigo que le dimos
+        si es asi, o avanzando si no lo es.
+VALORES BOOLEANOS:
+    TRUE, FALSE
+        Significa que tiene dos opciones, verdadero o falso. (Es un concepto que alimenta el codigo binario)
