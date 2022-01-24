@@ -1,0 +1,13 @@
+BUCLE FOR:
+    Creamos un bucle para no repetirnos. Donde iniciamos con parentesis y declaramos una variable, 
+    que es sobre lo que se va repetir el bucle, despues tenemos una expresion condicional, es decir, 
+    que el ciclo continua hasta que la declaracion de falsa. Y por ultimo, incrementamos el valor de 
+    nuestra variable. Cada declaracion va separada por un punto y coma.
+
+OPERADORES LOGICOS:
+    &&: "Y" o "AND". Evalua ambas expresiones y devuelve verdadero si ambas son verdaderas. Si una o 
+        ambas son falsas, devuelve falso.
+    ||: "O" o "OR". Si una o ambas de las expresiones es verdadera, devuelve verdadero. Si ambas son 
+        falsas, devuelve falso.
+    !:  "NOT" o "NO". Devuelve el valor booleano opuesto a lo que se le pasa.
+       
