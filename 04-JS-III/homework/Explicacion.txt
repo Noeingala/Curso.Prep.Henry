@@ -1,0 +1,4 @@
+ARRAY:
+    Es una manera ordenada de almacenar una lista de elementos, bajo un solo nombre de variable.
+    Se contruye con [], y los elementos que estén detro van separados por una coma.
+    Pueden contener elementos como: cadenas, numeros, booleanos. 
