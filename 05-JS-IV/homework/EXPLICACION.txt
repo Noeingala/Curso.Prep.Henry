@@ -1,0 +1,14 @@
+OBJETOS:
+        Un objeto es una coleccion de propiedades. Contienen informacion sobre una sola cosa.
+        Se instancia con {}.
+PROPIEDADES:
+        Es una asociacion entre un nombre (clave) y un valor. Es como una variable que va con el objero.
+        Definen las caracteristicas del objeto. 
+METODO:
+        Son funciones guardadas en los objetos. 
+BUCLE FOR...IN:
+        Este bucle, recorre cada clave del objeto.
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES:
+        Los utilizamos para poder acceder a los valores. 
+    DOT NOTATION: la utilizams cuando sabemos el nombre de la propiedad.
+    BRACKET NOTATION: la usamos cuando la propiedad esta dentro de una variable.
