@@ -1,0 +1,6 @@
+PROTOTYPE:
+        Sirve para agregar, establecer metodos una vez y darle acceso a cada objeto a ese metodo.
+        Es una propiedad que tienen todos los objetos.
+CONSTRUCTOR (de clases):
+        Proviene de ES6, usa el keywords "Class", el nombre de la clase, luego el constructor y despues
+        los metodos.
