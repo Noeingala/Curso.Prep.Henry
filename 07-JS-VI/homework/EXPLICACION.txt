@@ -1,0 +1,4 @@
+FUNCIONES CALLBACK:
+        Son funciones que son pasadas por argumentos a otra funcion.
+        Estas funciones pueden llamarse en cualuier momento.
+        
